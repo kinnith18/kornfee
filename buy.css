@@ -1,0 +1,16 @@
+html, body {
+    height: 100%; /* Ensure the body takes up the full viewport height */
+    margin: 0; /* Remove any default margin from body */
+}
+
+body {
+    display: flex; /* Enable flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    background-color: #f0f0f0; /* Optional: Background color */
+}
+
+h1 {
+    font-size: 2em; /* Adjust font size as needed */
+    color: #333; /* Optional: Text color */
+}
